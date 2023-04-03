@@ -1,0 +1,19 @@
+{
+  "name": "digicatapult-technical-test",
+  "version": "0.0.1",
+  "description": "Some exercises for prospective full-stack engineers",
+  "main": "middle.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDECatapult/lossy-fuzzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CDECatapult/lossy-fuzzer/issues"
+  },
+  "homepage": "https://github.com/CDECatapult/lossy-fuzzer#readme",
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}

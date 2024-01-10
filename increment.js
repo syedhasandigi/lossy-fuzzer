@@ -5,7 +5,7 @@
   - If the string does not end with a number. the number 1 should be appended to the new string.
 */
 
-function incrementStr(str) {
+const incrementStr = (str) => {
   // implement your solution here
   return 'new string'
 }

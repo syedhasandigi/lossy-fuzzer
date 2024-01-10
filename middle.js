@@ -5,7 +5,7 @@
   - If the string's length is 1, return itself.
 */
 
-function getMiddle(str) {
+export const getMiddle = (str) => {
   // implement your solution here
   return 'middle'
 }

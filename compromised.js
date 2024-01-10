@@ -5,7 +5,7 @@
   Write a method that takes the array as an argument and returns this 'outlier' N.
 */
 
-function findCompromised(arr) {
+const findCompromised = (arr) => {
   // implement your solution here
   return 1
 }
